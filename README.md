@@ -58,16 +58,26 @@ https://visitor-badge.laobi.icu/#docs
   · <a href="https://drive.google.com/file/d/1KAozInLp0WfnMO7HSJDQ1iHJjNJdKwQp/view?usp=sharing">Resume</a>
 
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/last-commit/knight-moon-72/knight-moon-72" /></a>
- 
-  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/last-commit/knight-moon-72/knight-moon-72" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/languages/count/knight-moon-72/knight-moon-72" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/languages/top/knight-moon-72/knight-moon-72" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/v/release/knight-moon-72/knight-moon-72" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/followers/knight-moon-72?label=Follow" /></a>
-  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/forks/knight-moon-72?label=Fork" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/stars/knight-moon-72/knight-moon-72?style=social" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/stars/knight-moon-72?affiliations=OWNER%2CCOLLABORATOR" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/watchers/knight-moon-72/knight-moon-72?label=Watch" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/downloads/knight-moon-72/knight-moon-72/total" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/discussions/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/labels/knight-moon-72/knight-moon-72/name" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/issues-pr/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/issues-pr-closed/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/issues-raw/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/release-date/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/size/knight-moon-72/knight-moon-72/loading_002.gif" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/repo-size/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/directory-file-count/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/directory-file-count/knight-moon-72/knight-moon-72?type=*.md" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/directory-file-count/knight-moon-72/knight-moon-72?type=dir" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/languages/code-size/knight-moon-72/knight-moon-72" /></a>
 
  
  <!--
