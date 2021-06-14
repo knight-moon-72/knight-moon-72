@@ -14,5 +14,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_ACT_TEMPLATE }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: JasonEtco
-          GIST_ID: 123abc
+          GH_USERNAME: knight-moon-72
+          GIST_ID: f3c39a04a04a51d45758117985e25b7a
