@@ -62,35 +62,35 @@ original
  <!---https://github.com/marketplace/actions/profile-readme-development-stats?version=V3 --->
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11413%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12977%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 60 Contributions in the Year 2021
+> 🏆 61 Contributions in the Year 2021
  > 
-> 📦 607 Bytes Used in Github's Storage 
+> 📦 791 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 3 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    18 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    36 commits     ████████████████░░░░░░░░░   66.67% 
+🌆 Daytime    18 commits     ███████░░░░░░░░░░░░░░░░░░   31.03% 
+🌃 Evening    40 commits     █████████████████░░░░░░░░   68.97% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       54 commits     █████████████████████████   100.0% 
+Monday       58 commits     █████████████████████████   100.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -123,7 +123,7 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               1 repo              █████████████████████████   100.0%
+JavaScript               2 repos             █████████████████████████   100.0%
 
 ```
 
