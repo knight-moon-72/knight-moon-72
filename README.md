@@ -27,7 +27,9 @@ https://www4.lunapic.com/editor/
  -----
  
  ![Nihal's GitHub stats](https://github-readme-stats-phi-pied.vercel.app/api?username=knight-moon-72&show_icons=true&theme=radical)&nbsp;&nbsp;
- 
+
+ [![Top Langs](https://github-readme-stats-phi-pied.vercel.app/api/top-langs/?username=knight-moon-72)](https://github.com/knight-moon-72/github-readme-stats)
+
  
  <!--github-readme-stats-phi-pied.vercel.app
 github-readme-stats-glll5xmhd-knight-moon-72.vercel.app
