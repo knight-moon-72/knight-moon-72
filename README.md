@@ -13,10 +13,10 @@ https://www4.lunapic.com/editor/
 <a href="https://www.linkedin.com/in/nihal-vaidya-b5806b6a/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 <a href="https://www.behance.net/nihalvaidya" target="_blank"><img align="left" alt="Nihal V. | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
 <a href="https://dribbble.com/Danny458" target="_blank"><img align="left" alt="Nihal V. | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Nihal V. | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Nihal V. | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to Nihal" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+<a href="https://www.instagram.com/itsmelukario/" target="_blank"><img align="left" alt="Nihal V. | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/nhlvcam" target="_blank"><img align="left" alt="Nihal V. | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://medium.com/@nhlvred" target="_blank"><img align="left" alt="Nihal V. | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
+<a href="https://dev.to/nihalv123" target="_blank"><img align="left" alt="dev to Nihal" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
 <br />
 <br />
