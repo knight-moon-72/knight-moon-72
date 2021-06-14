@@ -59,6 +59,17 @@ https://visitor-badge.laobi.icu/#docs
 
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/last-commit/knight-moon-72/knight-moon-72" /></a>
  
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/last-commit/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/languages/count/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/languages/top/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/v/release/knight-moon-72/knight-moon-72" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/followers/knight-moon-72?label=Follow" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/forks/knight-moon-72?label=Fork" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/stars/knight-moon-72/knight-moon-72?style=social" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/stars/knight-moon-72?affiliations=OWNER%2CCOLLABORATOR" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/watchers/knight-moon-72/knight-moon-72?label=Watch" /></a>
+
+ 
  <!--
  GitHub branch checks state badge	/github/checks-status/:user/:repo/:ref
 GitHub commit checks state:	GitHub commit checks state badge	/github/checks-status/:user/:repo/:ref
@@ -122,6 +133,12 @@ YouTube Video Likes:	YouTube Video Likes badge	/youtube/likes/:videoId
 YouTube Video Likes and Dislikes:	YouTube Video Likes and Dislikes badge	/youtube/likes/:videoId?withDislikes
 YouTube Channel Subscribers:	YouTube Channel Subscribers badge	/youtube/channel/subscribers/:channelId
 YouTube Video Views:	YouTube Video Views badge	/youtube/views/:videoId
+GitHub followers:	GitHub followers badge	/github/followers/:user?label=Follow
+GitHub forks:	GitHub forks badge	/github/forks/:user/:repo?label=Fork
+GitHub Repo stars:	GitHub Repo stars badge	/github/stars/:user/:repo?style=social
+GitHub User's stars:	GitHub User's stars badge	/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR
+GitHub Org's stars:	GitHub Org's stars badge	/github/stars/:org
+GitHub watchers:	GitHub watchers badge	/github/watchers/:user/:repo?label=Watch
 GitHub followers:	GitHub followers badge	/github/followers/:user?label=Follow
 GitHub forks:	GitHub forks badge	/github/forks/:user/:repo?label=Fork
 GitHub Repo stars:	GitHub Repo stars badge	/github/stars/:user/:repo?style=social
