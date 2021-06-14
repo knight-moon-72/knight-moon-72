@@ -24,9 +24,19 @@ https://www4.lunapic.com/editor/
  <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+ -----
  
+![Nihal's github stats](github-readme-stats-phi-pied.vercel.app/api?username=knight-moon-72&show_icons=true&hide_border=true)&nbsp;&nbsp;
+ <!--github-readme-stats-phi-pied.vercel.app-->
+
+ 
+ -------
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=knight-moon-72.knight-moon-72)
 
+ <!--
+https://visitor-badge.laobi.icu/#docs
+-->
+ 
 <br />
 <br />
 <br />
