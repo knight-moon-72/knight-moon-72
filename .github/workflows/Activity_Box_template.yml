@@ -2,7 +2,7 @@ name: Activity Box template
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+     - cron:  '30 5,17 * * *'
   #workflow_dispatch:
 
 jobs:
