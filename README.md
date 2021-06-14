@@ -25,7 +25,7 @@ https://www4.lunapic.com/editor/
  <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
+<br/>
  -----
  
  ![Nihal's GitHub stats](https://github-readme-stats-phi-pied.vercel.app/api?username=knight-moon-72&show_icons=true&theme=radical)&nbsp;&nbsp;
@@ -54,6 +54,87 @@ https://visitor-badge.laobi.icu/#docs
 -->
  
 <br />
+ 
+  · <a href="https://drive.google.com/file/d/1KAozInLp0WfnMO7HSJDQ1iHJjNJdKwQp/view?usp=sharing">Resume</a>
+ <img src="https://img.shields.io//github/checks-status/knight-moon-72/knight-moon-72">
+ <!--
+ GitHub branch checks state badge	/github/checks-status/:user/:repo/:ref
+GitHub commit checks state:	GitHub commit checks state badge	/github/checks-status/:user/:repo/:ref
+GitHub tag checks state:	GitHub tag checks state badge	/github/checks-status/:user/:repo/:ref
+GitHub pull request check state:	GitHub pull request check state badge	/github/status/s/pulls/:user/:repo/:number
+GitHub pull request check contexts:	GitHub pull request check contexts badge	/github/status/contexts/pulls/:user/:repo/:number
+GitHub Workflow Status:	GitHub Workflow Status badge	/github/workflow/status/:user/:repo/:workflow
+GitHub Workflow Status (branch):	GitHub Workflow Status (branch) badge	/github/workflow/status/:user/:repo/:workflow/:branch
+GitHub Workflow Status (event):	GitHub Workflow Status (event) badge	/github/workflow/status/:user/:repo/:workflow?event=push
+Gitlab pipeline status:	Gitlab pipeline status badge	/gitlab/pipeline/:user/:repo/:branch+
+Read the Docs /readthedocs/:packageName
+Read the Docs (version):	Read the Docs (version) badge	/readthedocs/:packageName/:version
+GitHub top language /github/languages/count/:user/:repo
+GitHub search hit counter:	GitHub search hit counter badge	/github/search/:user/:repo/:query
+GitHub top language:	GitHub top language badge	/github/languages/top/:user/:repo
+Requires.io  	/requires/:service/:user/:repo
+Requires.io (branch):	Requires.io (branch) badge	/requires/:service/:user/:repo/:branch
+Visual Studio App  /tokei/lines/:provider/:user/:repo
+Visual Studio App Center Size:	Visual Studio App Center Size badge	/visual-studio-app-center/releases/size/:owner/:app/:token
+GitHub code  /docker/image-size/:user/:repo/:tag
+GitHub code size in bytes:	GitHub code size in bytes badge	/github/languages/code-size/:user/:repo
+GitHub repo file count:	GitHub repo file count badge	/github/directory-file-count/:user/:repo
+GitHub repo file count (custom path):	GitHub repo file count (custom path) badge	/github/directory-file-count/:user/:repo/:path
+GitHub repo directory count:	GitHub repo directory count badge	/github/directory-file-count/:user/:repo?type=dir
+GitHub release  /github/downloads/:user/:repo/:tag/total?sort=semver
+GitHub release (latest by date including pre-releases):	GitHub release (latest by date including pre-releases) badge	/github/downloads-pre/:user/:repo/:tag/total
+GitHub release (latest by SemVer including pre-releases):	GitHub release (latest by SemVer including pre-releases) badge	/github/downloads-pre/:user/:repo/:tag/total?sort=semver
+GitHub release (by tag):	GitHub release (by tag) badge	/github/downloads/:user/:repo/:tag/total
+GitHub release (latest by date and asset):	GitHub release (latest by date and asset) badge	/github/downloads/:user/:repo/:tag/:assetName
+GitHub issues:	GitHub issues badge	/github/issues-raw/:user/:repo
+GitHub issues by-label:	GitHub issues by-label badge	/github/issues/:user/:repo/:label
+GitHub issues by-label:	GitHub issues by-label badge	/github/issues-raw/:user/:repo/:label
+GitHub closed issues:	GitHub closed issues badge	/github/issues-closed/:user/:repo
+GitHub closed issues:	GitHub closed issues badge	/github/issues-closed-raw/:user/:repo
+GitHub closed issues by-label:	GitHub closed issues by-label badge	/github/issues-closed/:user/:repo/:label
+GitHub closed issues by-label:	GitHub closed issues by-label badge	/github/issues-closed-raw/:user/:repo/:label
+GitHub pull requests:	GitHub pull requests badge	/github/issues-pr/:user/:repo
+GitHub pull requests:	GitHub pull requests badge	/github/issues-pr-raw/:user/:repo
+GitHub closed pull requests:	GitHub closed pull requests badge	/github/issues-pr-closed/:user/:repo
+GitHub closed pull requests:	GitHub closed pull requests badge	/github/issues-pr-closed-raw/:user/:repo
+GitHub pull requests by-label:	GitHub pull requests by-label badge	/github/issues-pr/:user/:repo/:label
+GitHub pull requests by-label:	GitHub pull requests by-label badge	/github/issues-pr-raw/:user/:repo/:label
+GitHub closed pull requests by-label:	GitHub closed pull requests by-label badge	/github/issues-pr-closed/:user/:repo/:label
+GitHub closed pull requests by-label:	GitHub closed pull requests by-label badge	/github/issues-pr-closed-raw/:user/:repo/:label
+GitHub labels:	GitHub labels badge	/github/labels/:user/:repo/:name
+GitHub milestone:	GitHub milestone badge	/github/milestones/:variant/:user/:repo/:number
+GitHub milestones:	GitHub milestones badge	/github/milestones/:variant/:user/:repo
+GitHub:	GitHub badge	/github/license/:user/:repo
+WordPress Plugin Rating 	/wordpress/theme/rating/:slug
+WordPress Plugin Rating:	WordPress Plugin Rating badge	/wordpress/plugin/stars/:slug
+ Ratings:	pkgreview.dev Package Ratings badge	/pkgreview/rating/:pkgManager/:pkgSlug+
+pkgreview.dev Star Ratings:	pkgreview.dev Star Ratings badge	/pkgreview/stars/:pkgManager/:pkgSlug+
+Subreddit subscribers:	Subreddit subscribers badge	/reddit/subreddit-subscribers/:subreddit
+Reddit User Karma:	Reddit User Karma badge	/reddit/user-karma/:variant/:user
+Twitch Status:	Twitch Status badge	/twitch/status/:user?style=social
+Twitter URL:	Twitter URL badge	/twitter/url?url=https%3A%2F%2Fshields.io
+Twitter Follow:	Twitter Follow badge	/twitter/follow/:user?label=Follow
+YouTube Channel Views:	YouTube Channel Views badge	/youtube/channel/views/:channelId
+YouTube Video Comments:	YouTube Video Comments badge	/youtube/comments/:videoId
+YouTube Video Likes:	YouTube Video Likes badge	/youtube/likes/:videoId
+YouTube Video Likes and Dislikes:	YouTube Video Likes and Dislikes badge	/youtube/likes/:videoId?withDislikes
+YouTube Channel Subscribers:	YouTube Channel Subscribers badge	/youtube/channel/subscribers/:channelId
+YouTube Video Views:	YouTube Video Views badge	/youtube/views/:videoId
+GitHub followers:	GitHub followers badge	/github/followers/:user?label=Follow
+GitHub forks:	GitHub forks badge	/github/forks/:user/:repo?label=Fork
+GitHub Repo stars:	GitHub Repo stars badge	/github/stars/:user/:repo?style=social
+GitHub User's stars:	GitHub User's stars badge	/github/stars/:user?affiliations=OWNER%2CCOLLABORATOR
+GitHub Org's stars:	GitHub Org's stars badge	/github/stars/:org
+GitHub watchers:	GitHub watchers badge	/github/watchers/:user/:repo?label=Watch
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <br />
 <br />
 
