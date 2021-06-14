@@ -39,9 +39,10 @@ Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues
  ---
  
  JOKES
-
- ![Jokes Card](https://readme-jokes.vercel.app/api)
-  ![Jokes Card](https://readme-jokes-nine.vercel.app/api)
+original
+ ![Jokes Card](https://readme-jokes.vercel.app/api)<br/>
+ vercel
+ ![Jokes Card](https://readme-jokes-nine.vercel.app/api)
 
 <!-- https://github.com/ABSphreak/readme-jokes -->
  
