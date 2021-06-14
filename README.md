@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/main/imageedit_3_4015527185.gif">
 <br/>
 <br/>
-<!---
+<!---te
 used lunapic 
 https://www4.lunapic.com/editor/
 -->
@@ -862,35 +862,6 @@ Badge | URL
 <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" /> | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" /> | `https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white`
 <img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" /> | `https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white`
-
-## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
-
-1 - You don't need to make a fork just edit 
-
-2 - Get a icon and ex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
-
-3 - Build the URL: 
-```
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
-```
-- {TEXT} = Paste your badge text
-- {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
-- {LOGO-NAME} = Logo name from Simple Icon
-
-4 - Paste on category
-
-5 - Commit your changes ;)
-
-
-## More [🔝](#welcome-badges-4-readmemd-profile)
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) and Contributors:
-
-| [<img alt="max-programming" src="https://github.com/max-programming.png?size=115" width="115"><br><sub>@max-programming</sub>](https://github.com/max-programming) | [<img alt="rienath" src="https://github.com/rienath.png?size=115" width="115"><br><sub>@rienath</sub>](https://github.com/rienath) | [<img alt="XeQariX" src="https://github.com/XeQariX.png?size=115" width="115"><br><sub>@XeQariX</sub>](https://github.com/XeQariX) | [<img alt="jackwilliamgray" src="https://github.com/jackwilliamgray.png?size=115" width="115"><br><sub>@jackwilliamgray</sub>](https://github.com/jackwilliamgray) | [<img alt="marcelo-s-correa" src="https://github.com/marcelo-s-correa.png?size=115" width="115"><br><sub>@marcelo-s-correa</sub>](https://github.com/marcelo-s-correa) | [<img alt="shivamkapasia0" src="https://github.com/shivamkapasia0.png?size=115" width="115"><br><sub>@shivamkapasia0</sub>](https://github.com/shivamkapasia0) |
-| :---: |:---: |:---: |:---: |:---: |:---: |
-| [<img alt="AdityaPrakash-26" src="https://github.com/AdityaPrakash-26.png?size=115" width="115"><br><sub>@AdityaPrakash-26</sub>](https://github.com/AdityaPrakash-26) | [<img alt="NatanBB" src="https://github.com/NatanBB.png?size=115" width="115"><br><sub>@NatanBB</sub>](https://github.com/NatanBB) | [<img alt="ArpadGBondor" src="https://github.com/ArpadGBondor.png?size=115" width="115"><br><sub>@ArpadGBondor</sub>](https://github.com/ArpadGBondor) | [<img alt="zulmarij" src="https://github.com/zulmarij.png?size=115" width="115"><br><sub>@zulmarij</sub>](https://github.com/zulmarij) | [<img alt="mfdeveloper" src="https://github.com/mfdeveloper.png?size=115" width="115"><br><sub>@mfdeveloper</sub>](https://github.com/mfdeveloper) | [<img alt="#14ABSphreak" src="https://github.com/ABSphreak.png?size=115" width="115"><br><sub>@ABSphreak</sub>](https://github.com/ABSphreak) |
-| [<img alt="noah-vdv" src="https://github.com/noah-vdv.png?size=115" width="115"><br><sub>@noah-vdv</sub>](https://github.com/noah-vdv) | [<img alt="RicardoRien" src="https://github.com/RicardoRien.png?size=115" width="115"><br><sub>@RicardoRien</sub>](https://github.com/RicardoRien) | [<img alt="Schleidens" src="https://github.com/Schleidens.png?size=115" width="115"><br><sub>@Schleidens</sub>](https://github.com/Schleidens) | [<img alt="RavinduSachintha" src="https://github.com/RavinduSachintha.png?size=115" width="115"><br><sub>@RavinduSachintha</sub>](https://github.com/RavinduSachintha) | [<img alt="mq1" src="https://github.com/mq1.png?size=115" width="115"><br><sub>@mq1</sub>](https://github.com/mq1) | [<img alt="hugorplobo" src="https://github.com/hugorplobo.png?size=115" width="115"><br><sub>@hugorplobo</sub>](https://github.com/hugorplobo) | 
-| [<img alt="yuriBazza" src="https://github.com/yuriBaza23.png?size=115" width="115"><br><sub>@yuriBaza23</sub>](https://github.com/yuriBaza23) | [<img alt="RubenFilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@rubenfilipe07</sub>](https://github.com/rubenfilipe07) |[<img alt="venkatesh" src="https://github.com/venkateshpensalwar.png?size=115" width="115"><br><sub>@venkateshpensalwar</sub>](https://github.com/venkateshpensalwar) | [<img alt="RazorShard" src="https://github.com/RazorShard.png?size=115" width="115"><br><sub>@RazorShard</sub>](https://github.com/RazorShard) | [<img alt="AlexandraAlcantara" src="https://github.com/alexa2me.png?size=115" width="115"><br><sub>@alexa2me</sub>](https://github.com/alexa2me)
 
 ------
  
