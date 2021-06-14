@@ -18,9 +18,7 @@ https://www4.lunapic.com/editor/
 <a href="https://twitter.com/nhlvcam" target="_blank"><img align="left" alt="Nihal V. | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://medium.com/@nhlvred" target="_blank"><img align="left" alt="Nihal V. | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/nihalv123" target="_blank"><img align="left" alt="dev to Nihal" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
- 
- ---
- 
+
  <a href="mailto:mailtomeaakash@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -34,9 +32,12 @@ https://www4.lunapic.com/editor/
 
  [![Top Langs](https://github-readme-stats-phi-pied.vercel.app/api/top-langs/?username=knight-moon-72&layout=compact)](https://github.com/knight-moon-72/github-readme-stats)
 
+ [![Nihal's wakatime stats](https://github-readme-stats-phi-pied.vercel.app/api/wakatime?usernamenareshvaidya)](https://github.com/knight-moon-72/github-readme-stats)
+
  
  <!--github-readme-stats-phi-pied.vercel.app
 github-readme-stats-glll5xmhd-knight-moon-72.vercel.app
+https://github.com/knight-moon-72/github-readme-stats
 -->
 
  
