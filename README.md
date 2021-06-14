@@ -25,9 +25,12 @@ https://www4.lunapic.com/editor/
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
  -----
+ ![Nihal's GitHub stats](https://github-readme-stats-phi-pied.vercel.app/api?username=knight-moon-72&show_icons=true&theme=radical)&nbsp;&nbsp;
  
-![Nihal's github stats](github-readme-stats-phi-pied.vercel.app/api?username=knight-moon-72&show_icons=true&hide_border=true)&nbsp;&nbsp;
- <!--github-readme-stats-phi-pied.vercel.app-->
+ 
+ <!--github-readme-stats-phi-pied.vercel.app
+github-readme-stats-glll5xmhd-knight-moon-72.vercel.app
+-->
 
  
  -------
