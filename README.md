@@ -8,6 +8,8 @@ used lunapic
 https://www4.lunapic.com/editor/
 -->
 ## Heyyo, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  I'm <a href="https://nnv.co.in" target="_blank">NIHAL</a>!
+<br/>
+Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues/new"><b>here</b></a><br><br/>
 (Use dark theme to find my socials ;)
 
 <a href="https://nnv.co.in" target="_blank"><img align="left" alt="nnv.co.in" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
@@ -83,6 +85,11 @@ https://visitor-badge.laobi.icu/#docs
   <a href="https://twitter.com/nhlvcam"><img src="https://img.shields.io/twitter/follow/nhlvcam?label=Follow" /></a>
   <a href="https://www.youtube.com/channel/UCRZ7xBsehvpfquJtWpvSY1w"><img src="https://img.shields.io/youtube/channel/views/UCRZ7xBsehvpfquJtWpvSY1w" /></a>
   <a href="https://www.youtube.com/channel/UCRZ7xBsehvpfquJtWpvSY1w"><img src="https://img.shields.io/youtube/channel/subscribers/UCRZ7xBsehvpfquJtWpvSY1w" /></a>
+  <a href="https://www.linkedin.com/in/nihal-vaidya-b5806b6a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/itsmelukario/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/nihal.vaidya.73/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://open.spotify.com/user/v204nf1jy6nur2nu21emaarx5"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=plastic&logo=spotify&logoColor=white" alt="Spotify" /></a>
+ 
 
  
  <!--
