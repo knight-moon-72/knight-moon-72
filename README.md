@@ -57,7 +57,7 @@ https://visitor-badge.laobi.icu/#docs
  
   · <a href="https://drive.google.com/file/d/1KAozInLp0WfnMO7HSJDQ1iHJjNJdKwQp/view?usp=sharing">Resume</a>
 
-  <a href="https://twitter.com/imtrilokia"><img src="https://img.shields.io/twitter/follow/imtrilokia?style=social" /></a>
+  <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/last-commit/knight-moon-72/knight-moon-72" /></a>
  
  <!--
  GitHub branch checks state badge	/github/checks-status/:user/:repo/:ref
