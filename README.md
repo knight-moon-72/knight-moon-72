@@ -1,10 +1,10 @@
 night theme 
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+<img src="https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/main/imageedit_3_4015527185.gif">
 <br/>
 <br/>
 used lunapic 
 https://www4.lunapic.com/editor/
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
+## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">NIHAL</a>!
 (Use dark theme to find my socials ;)
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
