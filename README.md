@@ -53,9 +53,11 @@ Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11413%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 59 Contributions in the Year 2021
+> 🏆 60 Contributions in the Year 2021
  > 
 > 📦 607 Bytes Used in Github's Storage 
  > 
@@ -69,15 +71,15 @@ Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    18 commits     ████████░░░░░░░░░░░░░░░░░   33.96% 
-🌃 Evening    35 commits     ████████████████░░░░░░░░░   66.04% 
+🌆 Daytime    18 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌃 Evening    36 commits     ████████████████░░░░░░░░░   66.67% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       53 commits     █████████████████████████   100.0% 
+Monday       54 commits     █████████████████████████   100.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
