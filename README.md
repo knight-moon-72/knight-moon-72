@@ -28,6 +28,13 @@ Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
+ 
+ -----
+ !--[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
+
+[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&redirect=true)
+
+ 
  -----
  
  ![Nihal's GitHub stats](https://github-readme-stats-phi-pied.vercel.app/api?username=knight-moon-72&show_icons=true&theme=radical)&nbsp;&nbsp;
