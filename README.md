@@ -39,6 +39,10 @@ https://www4.lunapic.com/editor/
 github-readme-stats-glll5xmhd-knight-moon-72.vercel.app
 https://github.com/knight-moon-72/github-readme-stats
 -->
+----
+ <img src= "https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/main/loading_001.gif">
+ 
+ <img src= "https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/main/loading_002.gif">
 
  
  -------
