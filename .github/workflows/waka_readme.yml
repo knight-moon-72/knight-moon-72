@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron:  ' 1 * * * *'
-    #- cron:  '30 5,17 * * *'
+    #- cron:  ' 1 * * * *'
+    - cron:  '30 5,17 * * *'
   workflow_dispatch:   
 
 jobs:
