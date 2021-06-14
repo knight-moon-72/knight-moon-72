@@ -56,7 +56,15 @@ original
 1. 💪 Opened PR [#1](https://github.com/knight-moon-72/knight-moon-72/pull/1) in [knight-moon-72/knight-moon-72](https://github.com/knight-moon-72/knight-moon-72)
 <!--END_SECTION:activity-->
 
- 
+ ----
+ <!-- https://github.com/abhisheknaiidu/abhisheknaiidu-->
+ 🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  7,926 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 660 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
  ---
  
  WAKA README
