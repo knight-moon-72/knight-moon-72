@@ -30,8 +30,10 @@ Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues
 <br/>
  
  -----
- !--[![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
+ DANNY
+ [![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=v204nf1jy6nur2nu21emaarx5&redirect=true)
 
+ DADA
 [![Spotify-GitHub-profile](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=x9mzwh8mzfcfk9rgmbkeh6kwc&redirect=true)
 
  
