@@ -77,10 +77,10 @@ https://visitor-badge.laobi.icu/#docs
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/directory-file-count/knight-moon-72/knight-moon-72?type=dir" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/languages/code-size/knight-moon-72/knight-moon-72" /></a>
   <a href="https://github.com/knight-moon-72"><img src="https://img.shields.io/github/forks/knight-moon-72/knight-moon-72?label=Fork" /></a>
-  <a href="https://www.reddit.com/r/PS4/"><img src="https://img.shields.io//reddit/subreddit-subscribers/PS4" /></a>
-  <a href="https://www.twitch.tv/newman_1996"><img src="https://img.shields.io//twitch/status/newman_1996?style=social" /></a>
-  <a href="https://twitter.com/nhlvcam"><img src="https://img.shields.io//twitter/url?url=https%3A%2F%2Fshields.io" /></a>
-  <a href="https://twitter.com/nhlvcam"><img src="https://img.shields.io//twitter/follow/nhlvcam?label=Follow" /></a>
+  <a href="https://www.reddit.com/r/PS4/"><img src="https://img.shields.io/reddit/subreddit-subscribers/PS4" /></a>
+  <a href="https://www.twitch.tv/newman_1996"><img src="https://img.shields.io/twitch/status/newman_1996?style=social" /></a>
+  <a href="https://twitter.com/nhlvcam"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io" /></a>
+  <a href="https://twitter.com/nhlvcam"><img src="https://img.shields.io/twitter/follow/nhlvcam?label=Follow" /></a>
   <a href="https://www.youtube.com/channel/UCRZ7xBsehvpfquJtWpvSY1w"><img src="https://img.shields.io/youtube/channel/views/UCRZ7xBsehvpfquJtWpvSY1w" /></a>
   <a href="https://www.youtube.com/channel/UCRZ7xBsehvpfquJtWpvSY1w"><img src="https://img.shields.io/youtube/channel/subscribers/UCRZ7xBsehvpfquJtWpvSY1w" /></a>
 
