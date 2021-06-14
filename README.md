@@ -32,7 +32,7 @@ https://www4.lunapic.com/editor/
 
  [![Top Langs](https://github-readme-stats-phi-pied.vercel.app/api/top-langs/?username=knight-moon-72&layout=compact)](https://github.com/knight-moon-72/github-readme-stats)
 
- [![Nihal's wakatime stats](https://github-readme-stats-phi-pied.vercel.app/api/wakatime?usernamenareshvaidya)](https://github.com/knight-moon-72/github-readme-stats)
+ [![Nihal's wakatime stats](https://github-readme-stats-phi-pied.vercel.app/api/wakatime?username=nareshvaidya)](https://github.com/knight-moon-72/github-readme-stats)
 
  
  <!--github-readme-stats-phi-pied.vercel.app
