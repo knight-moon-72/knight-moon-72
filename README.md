@@ -27,7 +27,7 @@ Ask me anything <a href="https://github.com/knight-moon-72/knight-moon-72/issues
  <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<br/>
+
  
  -----
  DANNY
