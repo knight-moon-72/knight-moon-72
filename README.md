@@ -61,7 +61,7 @@ original
  <!-- https://github.com/abhisheknaiidu/abhisheknaiidu-->
  🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  50 Karma Points           
+🏆  150 Karma Points           
 🌸  Completed 1 tasks today           
 ✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
