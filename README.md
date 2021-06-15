@@ -72,36 +72,36 @@ original
  <!---https://github.com/marketplace/actions/profile-readme-development-stats?version=V3 --->
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-257-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-572-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12977%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27430%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 63 Contributions in the Year 2021
+> 🏆 104 Contributions in the Year 2021
  > 
-> 📦 823 Bytes Used in Github's Storage 
+> 📦 1.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 10 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 4 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    18 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
-🌃 Evening    40 commits     ████████████████░░░░░░░░░   66.67% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+🌞 Morning    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+🌆 Daytime    18 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
+🌃 Evening    40 commits     ██████████░░░░░░░░░░░░░░░   41.24% 
+🌙 Night      34 commits     ████████░░░░░░░░░░░░░░░░░   35.05%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       58 commits     ████████████████████████░   96.67% 
-Tuesday      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
+Monday       58 commits     ███████████████░░░░░░░░░░   59.79% 
+Tuesday      39 commits     ██████████░░░░░░░░░░░░░░░   40.21% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -117,33 +117,33 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    45 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    45 mins             █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               2 repos             █████████████████████████   100.0%
+JavaScript               5 repos             █████████████████████████   100.0%
 
 ```
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/06/2021
+ Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
  
  
