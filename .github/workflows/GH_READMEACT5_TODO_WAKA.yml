@@ -1,34 +1,16 @@
-name: GH_WAKA_3_activity
+name: GH_READMEACT5_TODO_WAKA
 
 on:
   schedule:
     - cron:  '30 5,17 * * *'
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: readme not gist Update this repo's README with recent activity
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -36,8 +18,17 @@ jobs:
         with:
           COMMIT_MSG: 'ACTIVITY UPDATE ..'
           MAX_LINES: 10
+  update-readme-todo:
+    name: todoist Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/todoist-readme@master
+        with:
+          TODOIST_API_KEY: ${{ secrets.TODO_1_NARESH }}
+          PREMIUM: ""
   update-readme:
-    name: Update Readme with Metrics
+    name: waka Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
