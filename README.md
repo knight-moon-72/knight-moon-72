@@ -1,9 +1,5 @@
 
-------------------------
 
-My name is {{name}} and today is {{date}}.
-
------
 
 <img src="https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/main/imageedit_3_4015527185.gif">
 <br/>
