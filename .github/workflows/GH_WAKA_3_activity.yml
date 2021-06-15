@@ -1,12 +1,9 @@
 name: GH_WAKA_3_activity
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron:  '30 5,17 * * *'
-  #workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,29 +11,8 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - name: Checkout current repository to Master branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    
-      - name: Commit and Push waka activity    
-        uses: actions/checkout@v2
-      - name: Commit and Push waka activity 2   
-        uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -62,4 +38,3 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
-          
