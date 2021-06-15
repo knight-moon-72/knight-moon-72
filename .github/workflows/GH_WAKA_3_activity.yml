@@ -1,4 +1,4 @@
-name: GH_WAKA_2_activity
+name: GH_WAKA_3_activity
 
 on:
   push:
@@ -32,11 +32,11 @@ jobs:
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-          
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    
+      - name: Commit and Push waka activity    
+        uses: actions/checkout@v2
+      - name: Commit and Push waka activity 2   
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
