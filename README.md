@@ -78,7 +78,7 @@ original
  <!---https://github.com/marketplace/actions/profile-readme-development-stats?version=V3 --->
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27423%20lines%20of%20code-blue)
 
@@ -123,16 +123,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 mins             █████████████████████████   100.0%
+Other                    19 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  15 mins             █████████████████████████   100.0%
+Browser                  19 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          15 mins             █████████████████████████   100.0%
+Unknown Project          19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+Linux                    19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -149,7 +149,7 @@ JavaScript               5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/07/2021
+ Last Updated on 05/07/2021
 <!--END_SECTION:waka-->
  
  
