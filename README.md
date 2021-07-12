@@ -123,16 +123,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -149,7 +149,7 @@ JavaScript               5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
  
  
