@@ -78,7 +78,7 @@ original
  <!---https://github.com/marketplace/actions/profile-readme-development-stats?version=V3 --->
  
  <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27423%20lines%20of%20code-blue)
 
@@ -149,7 +149,7 @@ JavaScript               5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
  
  
