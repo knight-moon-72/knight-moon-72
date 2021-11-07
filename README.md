@@ -86,7 +86,7 @@ original
 
 > 🏆 116 Contributions in the Year 2021
  > 
-> 📦 4.5 kB Used in GitHub's Storage 
+> 📦 4.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -149,7 +149,7 @@ JavaScript               5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2021
+ Last Updated on 07/11/2021
 <!--END_SECTION:waka-->
  
  
