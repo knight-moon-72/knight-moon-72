@@ -78,6 +78,8 @@ original
  <!---https://github.com/marketplace/actions/profile-readme-development-stats?version=V3 --->
  
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2010%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25%20Thousand%20lines%20of%20code-blue)
@@ -86,7 +88,7 @@ original
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 2.8 kB Used in GitHub's Storage 
+> 📦 2.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
