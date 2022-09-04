@@ -78,7 +78,7 @@ original
  <!---https://github.com/marketplace/actions/profile-readme-development-stats?version=V3 --->
  
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ original
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 1.6 kB Used in GitHub's Storage 
+> 📦 1.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,48 +96,6 @@ original
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-🌆 Daytime    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.39% 
-🌃 Evening    39 commits     ██████████░░░░░░░░░░░░░░░   39.8% 
-🌙 Night      34 commits     ████████░░░░░░░░░░░░░░░░░   34.69%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       56 commits     ██████████████░░░░░░░░░░░   57.14% 
-Tuesday      39 commits     ██████████░░░░░░░░░░░░░░░   39.8% 
-Wednesday    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -151,7 +109,7 @@ JavaScript               5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/knight-moon-72/knight-moon-72/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 17:44:20 UTC
+ Last Updated on 04/09/2022 17:43:24 UTC
 <!--END_SECTION:waka-->
  
  
